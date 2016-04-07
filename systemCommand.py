@@ -1,0 +1,8 @@
+#coding=gbk
+'''
+Created on 2016Äê2ÔÂ27ÈÕ
+
+@author: zxj
+'''
+import os
+ret = os.system("ipconfig")
